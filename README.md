@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento FULLSTACK
+- 🔭 Atualmente estou trabalhando em desenvolvimento Back-End
 - 🌱 Atualmente estou aprendendo Java, JavaScript, HTML, CSS, Python, R, SQL, React e entre outras linguagens
 - 👯 Estou procurando colaborar em desenvolver o melhor para todos se tratando de tecnologia
 - 🤔 Estou procurando ajuda com desenvolvimento 
